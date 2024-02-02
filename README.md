@@ -25,3 +25,6 @@ LoadCell input
 1:   White:   Solar Panel +
 2:   Black:   NC
 3:   Brown:   Solar Panel -
+
+Datasheet:   https://drive.google.com/open?id=1xbWZ08GTlmFHpJ1E47czPLxAgRGFnkh8&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=1wJRhaM4br-NULnkSVF7tn4PiJoHshMce&usp=drive_fs
