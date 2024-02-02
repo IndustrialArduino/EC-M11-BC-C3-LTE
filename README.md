@@ -26,5 +26,5 @@ LoadCell input
 2:   Black:   NC
 3:   Brown:   Solar Panel -
 
-Datasheet:   https://drive.google.com/open?id=1xbWZ08GTlmFHpJ1E47czPLxAgRGFnkh8&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1wJRhaM4br-NULnkSVF7tn4PiJoHshMce&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-ec-m11-bc-c3-lte-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-ec-m11-bc-c3-lte-user-guide/
